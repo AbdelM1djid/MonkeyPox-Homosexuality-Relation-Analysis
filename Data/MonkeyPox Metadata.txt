@@ -1,0 +1,17 @@
+Data License : CC BY 4.0.
+
+Authors :
+- Multi-country monkeypox outbreak in non-endemic countries. World Health Organization. 21st May, 2022.
+- Global.health Monkeypox database (accessed at present date)
+. Dataset found in : Kaggle Platform
+. Total Size : 8.61 Mo
+. Files Format : CSV
+. Number of Files : 1
+Data integrity  : 
+- Dataset provided by World Health organization which is a trusted source
+- contains all needed informations for the analysis
+- 2022 data (Updated Daily)  
+Data use  : 
+- Dataset provide Updated everyday observation about the reported (either suspected or confirmed)
+cases of MonkeyPox , it contains very different and unique Variables to enrich our Analysis
+in understanding MonkeyPox disease Behaviour in the past couple of month 

@@ -1,0 +1,25 @@
+Data License : Not stated , assumed its for public use 
+since there is some kaggle Notebooks
+
+Authors :
+- https://ilga.org/maps-sexual-orientation-laws
+Source  : 
+https://ilga.org/maps-sexual-orientation-laws
+. Dataset found in : Kaggle Platform
+. Total Size : 13.5 Ko
+. Files Format : CSV
+. Number of Files : 1
+Data integrity  : 
+-Dataset provided ILGA Which used to publish maps on Sexual orientation laws every year 
+- contains all needed informations for the analysis
+- ilga publishes the dataset to defend lgbtq so they provided honest data about countries
+that are with and against homosexuality , little do they know what i did with it :) 
+Data use  : 
+- This Data contains Countries Laws/Position with homosexuality where we can find multiple useful variables to 
+- identify the relationship with MonkeyPox and Homosexuality such as : 
+-the legality of homosexuality in that country 
+ the Penalty applied to homosexuals 
+- whether they support same sex marriage or not  . .. . etc 
+ 
+i will run an analysis with aggregation of the MonkeyPox dataset to find if the countries that support/don't support 
+homosexuality has High/Low MonkeyPox Cases 
