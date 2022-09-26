@@ -5,7 +5,8 @@ so i'v Decided to Switch My analysis into a Disease analysis and a Relation anal
 
 Biggest Challenges : 
 - My Biggest challenges in this analysis was to find Homosexuality Population in Countries datasets which i couldn't  find , instead i found a great alternative and i made good use of that (which is 'Countries Laws against Homosexuality' )
-- My second biggest challenge in this analysis was the monkeypox dataset that some important columns such as gender and age had little non missing values , at first i though that was a downside to my analysis , but it turned to be a great clue of the existance of the relationship
+- My second biggest challenge in this analysis was the monkeypox dataset that some important columns such as gender and age had little non missing values , at first i though that was a downside to my analysis , but it turned to be a great clue of the existance of the relationship  
+
 To Prove the Relationship i've  : 
 - analyzed and understood the MonkeyPox Disease and data 
 - aggregated MonkeyPox and Homosexuality Data 
