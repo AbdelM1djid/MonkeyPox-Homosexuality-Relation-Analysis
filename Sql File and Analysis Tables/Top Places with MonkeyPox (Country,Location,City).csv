@@ -1,0 +1,768 @@
+﻿United States;NULL;"New York City, New York ";2203
+Spain;NULL;Madrid;1973
+Brazil;NULL;Sao Paulo;1957
+United States;NULL;California;1896
+Spain;NULL;Catalonia;1781
+United States;NULL;Florida;1266
+Germany;NULL;Berlin;1224
+United States;NULL;Texas;1060
+United States;NULL;Georgia;1016
+United States;NULL;Illinois;866
+France;NULL;Ile-de-France;856
+Peru;NULL;Lima Metropolitana;566
+Spain;NULL;Andalusia;554
+Canada;Toronto;Ontario;401
+Spain;NULL;Valencian Community;375
+United States;NULL;Pennsylvania;363
+United States;NULL;District of Columbia;359
+Canada;NULL;Quebec;354
+United States;NULL;Maryland;341
+Brazil;NULL;Rio de Janeiro;340
+United States;NULL;New Jersey;335
+Belgium;NULL;Flanders;301
+Italy;NULL;Lombardy;266
+United States;NULL;Massachusetts;256
+United States;NULL;Washington;254
+United States;NULL;New York;244
+United States;NULL;Virginia;210
+United States;NULL;Arizona;205
+France;NULL;Auvergne-Rhone-Alpes;204
+United States;NULL;North Carolina;203
+Belgium;NULL;Brussels;185
+Spain;NULL;Basque Country;172
+United States;NULL;Colorado;166
+Germany;NULL;North Rhine-Westphalia, Cologne;165
+France;NULL;Occitanie;164
+France;NULL;PACA;161
+Spain;NULL;Balearic Islands;155
+United States;NULL;Ohio;121
+Brazil;NULL;Minas Gerais;117
+Brazil;NULL;Goias;117
+United States;NULL;Oregon;116
+United States;NULL;Louisiana;114
+Brazil;NULL;Distrito Federal;114
+United States;NULL;Indiana;104
+Italy;NULL;Lazio;103
+United States;NULL;Michigan;102
+Canada;NULL;British Columbia;97
+Spain;NULL;Canary Islands;96
+Mexico;NULL;Ciudad de Mexico;95
+France;NULL;Hauts de France;94
+United States;NULL;Tennessee;91
+Spain;NULL;Galicia;87
+France;NULL;Occitania;85
+United States;NULL;Nevada;83
+United States;NULL;Minnesota;81
+Germany;NULL;Hamburg;76
+United States;NULL;Utah;72
+United States;NULL;South Carolina;71
+United States;NULL;Connecticut;69
+France;NULL;Grand Est;68
+Spain;Madrid;Madrid;65
+United States;NULL;"Westchester County, New York ";60
+Canada;Montreal;Quebec;59
+Brazil;NULL;Parana;56
+Spain;NULL;Castilla y Leon;55
+Spain;NULL;Asturias;55
+Spain;NULL;Aragon;54
+Belgium;NULL;Wallonia;54
+France;NULL;Nouvelle-Aquitaine;54
+Italy;NULL;Emilia-Romagna;51
+France;NULL;Nouvelle Aquitaine;50
+Germany;NULL;Bayern;48
+Spain;Madrid;NULL;48
+Germany;Berlin;NULL;47
+Peru;NULL;Callao;45
+Nigeria;NULL;Lagos;45
+Spain;NULL;Andalucia;42
+Italy;NULL;Veneto;42
+France;NULL;Pays de la Loire;42
+Canada;Ottawa;Ontario;38
+Brazil;NULL;Santa Catarina;38
+Brazil;NULL;Rio Grande do Sul;37
+Spain;NULL;Castilla la Mancha;37
+Spain;NULL;Murcia;36
+Belgium;NULL;Bruxelles;36
+France;NULL;├«le-de-France;35
+United States;NULL;Suffolk County, New York;35
+United States;NULL;Rhode Island;33
+United States;NULL;Alabama;32
+Belgium;NULL;Flandre;32
+Spain;NULL;Andalusia, Malaga;32
+Peru;NULL;La Libertad;32
+Nigeria;NULL;Ondo;32
+Germany;NULL;North Rhine-Westphalia, D├╝sseldorf;31
+Germany;NULL;Baden-Wurttemburg, Stuttgart;31
+Germany;NULL;Hessen, Frankfurt;29
+Italy;NULL;Tuscany;29
+United States;NULL;Missouri;29
+United States;NULL;Wisconsin;28
+Mexico;NULL;Jalisco;28
+Australia;NULL;New South Wales;28
+Australia;NULL;Victoria;28
+France;NULL;Bourgogne-Franche-Comte;27
+Nigeria;NULL;Bayelsa;27
+Brazil;NULL;Bahia;26
+France;NULL;Brittany;25
+Nigeria;NULL;Adamawa;25
+Spain;NULL;Extremadura;25
+Spain;NULL;Cantabria;24
+Bolivia;NULL;Santa Cruz;24
+France;NULL;Hauts-de-France;23
+Nigeria;NULL;Plateau;23
+United States;NULL;Nassau County, New York;23
+Italy;NULL;Piedmont;22
+Italy;NULL;Campania;21
+United States;NULL;Arkansas;21
+United States;San Francisco;California;20
+France;NULL;Normandy;20
+Canada;NULL;Alberta;19
+Nigeria;NULL;Katsina;19
+Nigeria;NULL;Gombe;19
+Chile;NULL;Metropolitana;18
+Germany;NULL;Bayern, Gesamt;18
+United States;NULL;Oklahoma;18
+United States;NULL;Nebraska;17
+United States;NULL;King County, Washington;17
+Nigeria;NULL;Delta;17
+Nigeria;NULL;Nasarawa;16
+Spain;NULL;Andalusia, Granada;16
+Brazil;NULL;Pernambuco;16
+United States;NULL;Mississippi;16
+United States;NULL;New Mexico;16
+United States;San Francsico;California;16
+Brazil;NULL;Ceara;15
+Germany;NULL;Bayern, M├╝nchen;15
+Portugal;Lisbon;Lisbon and Tagus Valley;15
+Nigeria;NULL;Edo;15
+Nigeria;NULL;Rivers;14
+Peru;NULL;Arequipa;14
+Spain;NULL;Canary Islands, Gran Canaria;14
+Canada;London-Middlesex;Ontario;14
+United States;NULL;New Hampshire;14
+Spain;Malaga;Malaga, Andalusia;14
+United States;NULL;Kentucky;13
+Chile;NULL;Metropolitan;13
+Spain;NULL;Navarra;13
+Nigeria;NULL;Oyo;13
+Nigeria;NULL;Kebbi;13
+Mexico;NULL;Yucatan;13
+Italy;NULL;Liguria;13
+Germany;NULL;North Rhine-Westphalia, Essen;13
+Italy;NULL;Emilia Romagna;12
+Nigeria;NULL;Kano;12
+Canada;Hamilton;Ontario;12
+Brazil;NULL;Mato Grosso do Sul;12
+United States;NULL;Iowa;12
+Canada;Peel;Ontario;11
+France;NULL;Centre Val de Loire;11
+France;NULL;Centre-Val de Loire;11
+Nigeria;NULL;FCT;11
+Nigeria;NULL;Taraba;11
+Nigeria;NULL;Imo;10
+Germany;NULL;Sachsen, Dresden;10
+Germany;NULL;Sachsen, Leipzig;10
+France;NULL;Normandie;10
+Canada;Halton;Ontario;10
+Brazil;NULL;Rio Grande do Norte;10
+Belgium;NULL;Wallonie;10
+Brazil;NULL;Amazonas;9
+Brazil;NULL;Espirito Santo;9
+Canada;Durham;Ontario;9
+Germany;NULL;North Rhine-Westphalia, Bonn;9
+Italy;NULL;Puglia;9
+Nigeria;NULL;Kwara;9
+Romania;Bucharest;NULL;9
+Spain;Gran Canaria;Gran Canaria, Canary Islands;9
+Spain;Madrid;Sandoval Health Center, Madrid;8
+United States;NULL;Erie County, New York;8
+United States;NULL;Idaho;8
+United States;NULL;Orange County, New York;8
+Nigeria;NULL;Ogun;8
+Nigeria;NULL;Borno;8
+Nigeria;NULL;Anambra;8
+Nigeria;NULL;Bauchi;7
+Mexico;NULL;Quintana Roo;7
+Mexico;NULL;Mexico;7
+Republic of Congo;NULL;Impfondo District;7
+Spain;NULL;Canary Islands, Tenerife;7
+Germany;NULL;North Rhine-Westphalia, Bochum;7
+Germany;NULL;Bayern, Munich;7
+Czech Republic;NULL;Prague;7
+Czech Republic;Prague;NULL;7
+Central African Republic;NULL;Mbaiki District;7
+Austria;Vienna;NULL;7
+United States;NULL;Monroe County, New York;7
+United States;NULL;Dutchess County, New York;7
+Brazil;NULL;Rio Grandeo do Sul;6
+Brazil;Belo Horizonte;Minas Gerais;6
+Cameroon;NULL;Ayos;6
+Germany;NULL;Bayern, N├╝rnberg;6
+Germany;NULL;Niedersachsen, Hannover;6
+Germany;NULL;Baden-Wurttemberg, Stuttgart;6
+Peru;NULL;Cusco;6
+Nigeria;NULL;Akwa Ibom;6
+Nigeria;NULL;Abia;6
+Italy;NULL;Sicily;6
+Hungary;NULL;Budapest;6
+Germany;NULL;North Rhine-Westphalia, Oberhausen;6
+Germany;NULL;North Rhine-Westphalia, Duisburg;5
+Italy;NULL;Friuli Venezia Giulia;5
+Nigeria;NULL;Cross River;5
+Peru;NULL;Lima Provincias;5
+Portugal;Lisbon;Lisbon;5
+Spain;NULL;Castilla-La Mancha;5
+Spain;Gran Canaria;Gran Canaria;5
+Germany;NULL;"Baden-Wurttemburg, Mannheim ";5
+Germany;NULL;Brandenburg, Potsdam;5
+Australia;Sydney;New South Wales;5
+Canada;York;Ontario;5
+Colombia;Bogot├í;NULL;5
+England;London;London;5
+Canada;Clinique l'Agora, Montreal;Quebec;5
+Canada;Peterborough;Ontario;5
+United States;NULL;Delaware;5
+United States;NULL;O'ahu, Hawaii;5
+United States;Chicago;Illinois;5
+United States;NULL;Los Angeles County, California;4
+United States;NULL;Rockland County, New York;4
+United States;NULL;Sacramento County, California;4
+United States;NULL;Salt Lake County, Utah;4
+United States;NULL;Hawaii;4
+Uganda;NULL;Kampala City;4
+Canada;Niagara;Ontario;4
+Canada;Haldimand-Norfolk;Ontario;4
+Canada;Brant;Ontario;4
+Canada;Clinique a la Licorne, Montreal;Quebec;4
+Canada;Clinique l'Actuel, Montreal;Quebec;4
+Argentina;NULL;Buenos Aires;4
+Brazil;NULL;Mato Grosso;4
+Germany;NULL;Brandenburg, Havelland;4
+Germany;NULL;Baden-Wurttemburg, Ludwigsburg;4
+Spain;NULL;La Rioja;4
+Spain;NULL;Andalusia, Jaen;4
+Spain;NULL;Andalusia, Seville;4
+Romania;NULL;Bucharest;4
+Nigeria;NULL;Niger;4
+Italy;Padova;"Veneto ";4
+Italy;NULL;Friuli-Venezia Giulia;4
+Italy;NULL;Marche;4
+Italy;NULL;Apulia;4
+India;NULL;Delhi;4
+India;NULL;Kerala;4
+Germany;NULL;North Rhine-Westphalia, Rhein-Erft-Kreis;4
+Germany;NULL;North Rhine-Westphalia, Rhein-Kreis-Neuss;4
+Germany;NULL;Rheinland-Pfalz, Trier, Kreisfreie Stadt;4
+Germany;NULL;Saarland;4
+Germany;NULL;North Rhine-Westphalia, Wuppertal;4
+Germany;NULL;Sachsen;3
+Germany;NULL;Sachsen, Chemnitz;3
+Germany;NULL;Sachsen-Anhalt, Magdeburg;3
+Germany;NULL;North Rhine-Westphalia, Rhein-Sieg-Kreis;3
+Germany;NULL;North Rhine-Westphalia, Oberbergischer Kreis;3
+Germany;NULL;North Rhine-Westphalia, Wesel;3
+Germany;NULL;North Rhine-Westphalia, Dortmund;3
+Germany;Cologne;NULL;3
+Italy;NULL;Sardinia;3
+Italy;NULL;Lombardia;3
+Honduras;NULL;Central district;3
+Italy;Piacenza;Piacenza, Emilia-Romagna;3
+Italy;Monza;Lombardia;3
+Mexico;NULL;Baja California;3
+Mexico;NULL;Chiapas;3
+Italy;Rome;Spallanzani Hospital, Rome, Lazio;3
+Mexico;"Mexico City ";NULL;3
+Peru;NULL;Ancash;3
+Nigeria;NULL;Kaduna;3
+Somalia;Mogadishu;De Martino Hospital;3
+Peru;Lima;NULL;3
+Peru;NULL;Metropolitan Lima;3
+Peru;NULL;Piura;3
+Spain;NULL;Cantabira;3
+Spain;Cadiz;Cadiz, Andalusia;3
+Germany;NULL;Baden-Wurttemburg, Karlsruhe;3
+Germany;NULL;Baden-Wurttemburg, B├╢blingen;3
+Germany;NULL;Baden-Wurttemburg, Rems-Murr-Kreis;3
+Germany;NULL;Bayern, Dachau;3
+France;NULL;Corsica;3
+France;├«le-de-France;├«le-de-France;3
+Germany;NULL;Brandenburg, Oberhavel;3
+Germany;NULL;Brandenburg, Ostprignitz-Ruppin;3
+Germany;NULL;Bayern, W├╝rzburg;3
+Germany;NULL;North Rhine-Westphalia, Aachen;3
+Cameroon;NULL;Kumba;3
+Brazil;NULL;Acre;3
+Canada;Haliburton;Ontario;3
+Canada;NULL;Saskatchewan;3
+Canada;Guelph;Ontario;3
+Ecuador;NULL;Guayaquil;3
+Chile;Lima;Metropolitana;3
+Spain;Tenerife;Tenerife, Canary Islands;3
+United States;NULL;Kansas;3
+United States;NULL;San Francisco County, California;3
+United States;NULL;Tompkins County, New York;3
+United States;Nashville;Davidson County, Tennessee;3
+United States;Cincinnati;Ohio;2
+United States;Houston;Texas;2
+United States;Kansas City;Missouri;2
+United States;Louisville;Jefferson County, Kentucky;2
+United States;Anchorage;Alaska;2
+United States;Chicago;Chicago, Illinois;2
+United States;NULL;Ulster County, New York;2
+United States;NULL;Sullivan County, New York;2
+United States;NULL;South Dakota;2
+United States;NULL;Pierce County, Washington;2
+United States;NULL;North Dakota;2
+United States;NULL;New Castle County, Delaware;2
+United States;NULL;Kent County, Delaware;2
+United States;NULL;Johnson County, Iowa;2
+United States;NULL;Douglas County, Nebraska;2
+United States;NULL;Dallas County, Texas;2
+United States;NULL;Dane County, Wisconsin;2
+United States;NULL;Columbia County, New York;2
+United States;NULL;Broward County, Florida;2
+Sweden;Stockholm;Stockholm Region;2
+Uganda;NULL;Kisoro District;2
+Spain;Seville;Seville, Andalusia;2
+Thailand;Phuket;NULL;2
+United States;NULL;Albany County, New York;2
+Colombia;Bogota;NULL;2
+Chile;Santiago;Santiago Metropolitan Region;2
+Chile;NULL;Antofagasta;2
+England;London;Guy's and St Thomas Hospital London;2
+Dominican Republic;NULL;Santo Domingo;2
+Canada;Kingston-Frontenac-Lennox-Addington;Ontario;2
+Canada;Simcoe Muskoka;Ontario;2
+Canada;Leeds-Grenville;Ontario;2
+Canada;Windsor-Essex;Ontario;2
+Canada;NULL;Yukon;2
+Canada;Grey-Bruce;Ontario;2
+Australia;NULL;Australian Capital Territory;2
+Belgium;Antwerp;Antwerp, Flanders;2
+Belgium;Brussels;CHU Saint Pierre;2
+Argentina;NULL;Cordoba;2
+Argentina;Buenos Aires;NULL;2
+Australia;NULL;Queensland;2
+Australia;NULL;Western Australia;2
+Cameroon;NULL;Benakuma;2
+Brazil;Rio de Janeiro City;Rio de Janeiro;2
+Brazil;Sete Lagoas;Minas Gerais;2
+Brazil;Curitiba;Parana;2
+Brazil;NULL;Maranhao;2
+Brazil;NULL;Para;2
+Germany;NULL;Niedersachsen, Schaumburg;2
+Germany;NULL;North Rhine- Westphalia,  Recklinghausen;2
+Germany;NULL;North Rhine-Westphalia, D├╝ren;2
+Germany;NULL;Niedersachsen;2
+Germany;NULL;Niedersachsen, Braunschweig;2
+Germany;NULL;Hessen, Gro├ƒ-Gerau;2
+Germany;NULL;Hessen, Offenbach, Landkreis;2
+Germany;NULL;Hessen, Schwalm-Eder-Kreis;2
+Germany;NULL;Hessen, Wetteraukreis;2
+Germany;NULL;Mecklenburg-Vorpommern, Vorpommern-Greifswald;2
+Germany;NULL;Neidersachen,  Braunschweig;2
+Germany;NULL;Brandenburg, Barnim;2
+Germany;NULL;Brandenburg, Cottbus;2
+Germany;NULL;Brandenburg, M├ñrkisch Oderland;2
+Germany;NULL;Brandenburg, Teltow-Fl├ñming;2
+Germany;NULL;Bremen;2
+Germany;NULL;"Bayern, Coburg ";2
+Germany;NULL;Hessen, Darmstadt-Dieburg;2
+Germany;NULL;Baden-Wurttemberg, Ludwigsburg;2
+France;NULL;Central Val de Loire;2
+Germany;NULL;Baden-Wurttemburg, Stadtkreis Ulm;2
+Peru;NULL;Ucayali;2
+Peru;NULL;Loreto;2
+Peru;NULL;Junin;2
+Peru;NULL;Cajamarca;2
+Peru;NULL;Lambayeque;2
+Spain;NULL;Andalusia, Cadiz;2
+Romania;NULL;Cluj;2
+Nigeria;NULL;Enugu;2
+Nigeria;NULL;Ebonyi;2
+Nigeria;NULL;Benue;2
+Norway;Oslo;NULL;2
+Nigeria;NULL;Kogi;2
+Mexico;NULL;Puebla;2
+Italy;Rome;Spallanzani Hospital, Lazio;2
+Hungary;Budapest;NULL;2
+Germany;K├╢ln (Cologne);K├╢ln (Cologne);2
+Italy;Lucca;Tuscany;2
+Italy;Milan;Lombardia;2
+Italy;Milan;Lombardy;2
+Italy;NULL;PA Trento;2
+Germany;Dusseldorf;NULL;2
+Germany;Dusseldorf;Dusseldorf, Nordrhein Westfalen;2
+Germany;Hamburg;Hamburg;2
+Germany;NULL;Schleswig-Holstein, Herzogtum Lauenburg;2
+Germany;"Monheim ";North Rhine-Westphalia, Mettmann;2
+Germany;Munich;NULL;2
+Germany;Ortenaukreis;Ortenaukreis;2
+Greenland;Pituffik;NULL;2
+Guatemala;NULL;Guatemala City;2
+Germany;NULL;North Rhine-Westphalia, Dusseldorf;2
+Germany;NULL;North Rhine-Westphalia, M├╝nster;2
+Germany;NULL;North Rhine-Westphalia, Mettmann;2
+Germany;NULL;Rheinland-Pfalz;2
+Germany;NULL;North Rhine-Westphalia, Siegen-Wittgenstein;2
+Germany;NULL;Sachsen, Mittelsachsen;2
+Germany;NULL;Schleswig-Holstein, Pinneberg;2
+Germany;NULL;Rheinland-Pfalz, Kaiserslautern;2
+Germany;NULL;Rheinland-Pfalz, Kussel;1
+Germany;NULL;"Rheinland-Pfalz, Landau in der Pfalz ";1
+Germany;NULL;Rheinland-Pfalz, Mainz;1
+Germany;NULL;Rheinland-Pfalz, Rhein-Hunsr├╝ck-Kreis;1
+Germany;NULL;Rheinland-Pfalz, Trier-Saarburg;1
+Germany;NULL;Rheinland-Pfalz, Vulkaneifel;1
+Germany;NULL;Rheinland-Pfalz, Westerwaldkreis;1
+Germany;NULL;North-Rhine Westphalia;1
+Germany;NULL;Rhein-Erft-Kreis;1
+Germany;NULL;Saarland, Saarpfalz-Kreis;1
+Germany;NULL;Saarland, St. Wendel;1
+Germany;NULL;Sachesen, Vogtlandkreis;1
+Germany;NULL;Schleswig-Holstein, Pl├╢n;1
+Germany;NULL;Schleswig-Holstein, Rendsburg-Eckernforde;1
+Germany;NULL;Schleswig-Holstein, Segeberg;1
+Germany;NULL;Schleswig-Holstein, Steinburg;1
+Germany;NULL;Schleswig-Holstein, Stormarn;1
+Germany;NULL;Th├╝ringen, Erfurt;1
+Germany;NULL;Th├╝ringen, Jena;1
+Germany;NULL;Thuringen, Jena;1
+Germany;Aachen;NULL;1
+Germany;Ansbach;NULL;1
+Germany;NULL;Sachsen-Anhalt, Halle (Saale);1
+Germany;NULL;Schleswig-Holstein;1
+Germany;NULL;Schleswig-Holstein, Flensburg;1
+Germany;NULL;Sachsen, Leipzig, Landkreis;1
+Germany;NULL;Sachsen, G├╢rlitz;1
+Germany;NULL;North Rhine-Westphalia, Solingen;1
+Germany;NULL;North Rhine-Westphalia, Steinfurt;1
+Germany;NULL;North Rhine-Westphalia, Unna;1
+Germany;NULL;North Rhine-Westphalia, Viersen;1
+Germany;NULL;North Rhine-Westphalia, Warendorf;1
+Germany;NULL;Rheinland-Pfalz, Bernkastel-Wittlich;1
+Germany;NULL;Rheinland-Pfalz, Bitburg-Pr├╝m;1
+Germany;NULL;Rheinland-Pfalz, Germersheim;1
+Germany;NULL;North Rhine-Westphalia, Olpe;1
+Germany;NULL;North Rhine-Westphalia, Recklinghausen;1
+Germany;NULL;North Rhine-Westphalia, Minden-L├╝bbecke;1
+Germany;NULL;North Rhine-Westphalia, Munster;1
+Germany;NULL;North Rhine-Westphalia, Markischer Kreis;1
+Germany;NULL;North Rhine-Westphalia, Ennepe-Ruhr-Kreis;1
+Germany;NULL;North Rhine-Westphalia, Euskirchen;1
+Germany;NULL;North Rhine-Westphalia, G├╝tersloh;1
+Germany;NULL;North Rhine-Westphalia, Gelsenkirchen;1
+Germany;NULL;North Rhine-Westphalia, Hagen;1
+Germany;NULL;"North Rhine-Westphalia, Heinsburg ";1
+Germany;NULL;North Rhine-Westphalia, Kleve;1
+Germany;NULL;North Rhine-Westphalia, Krefeld;1
+Germany;NULL;North Rhine-Westphalia, M├╝lheim;1
+Guatemala;Guatemala City;NULL;1
+Haiti;NULL;Saint-Marc;1
+Germany;Potsdam;Potsdam;1
+Ghana;NULL;Upper East Region;1
+Gibraltar;Gibraltar;St Bernard's Hospital, Gibraltar;1
+India;Delhi;NULL;1
+Israel;NULL;Sheba Medical Center, Tel Aviv;1
+Israel;NULL;Sourasky Medical Center, Ichilov;1
+Israel;Tel Aviv;Ichilov Hospital;1
+Israel;Tel HaShomer;Tel HaShomer;1
+Italy;NULL;Abruzzo;1
+Germany;NULL;"Schleswig-Holstein, Kiel ";1
+Germany;NULL;Schleswig-Holstein, L├╝beck;1
+Germany;NULL;Schleswig-Holstein, Nordfriesland;1
+Germany;NULL;Schleswig-Holstein, Ostholstein;1
+Germany;Berlin;Berlin;1
+Germany;Bonn;North-Rhine Westphalia;1
+Germany;"Brandenburg ";Brandenburg, Teltow-Flaming;1
+Germany;Coesfeld;NRW;1
+Germany;Havelland;Brandenburg;1
+Germany;Hilden;North Rhine-Westphalia, Mettmann;1
+Germany;Jerichower Land;Jerichower Land;1
+Germany;Frankfurt;Frankfurt, Hesse;1
+Germany;G├╝nzburg;Bayern;1
+Germany;Halle;Sachsen-Anhalt;1
+Italy;NULL;Modena, Emilia-Romagna;1
+Italy;NULL;PA Bolzano;1
+Italy;NULL;Sardegna;1
+Italy;NULL;Piemonte;1
+Italy;Arezzo;Spallanzani Hospital, Arezzo, Tuscany;1
+Italy;Bologna;Bologna, Emilia-Romagna;1
+Italy;Brescia;Lombardia;1
+Italy;Conversano;Puglia;1
+Italy;Lombardy;Sacco Hospital, Milan;1
+Germany;M├╝nster;NULL;1
+Hungary;NULL;Somogy;1
+Italy;NULL;Mantua, Lombardy;1
+Italy;NULL;Friuli-Venezia Guilia;1
+Mexico;NULL;Chihuahua;1
+Mexico;NULL;Colima;1
+Italy;Sabaudia;Lazio;1
+Italy;Taranto;Puglia;1
+Italy;Trento;Sainta Chiara Hospital, Trento;1
+Italy;Turin;Piemonte;1
+Italy;Varese;"Lombardia ";1
+Jamaica;NULL;St. James;1
+Japan;NULL;Tokyo;1
+Mexico;NULL;Puerto Vallarta, Jalisco;1
+Mexico;NULL;Queretaro;1
+Mexico;NULL;Los Cabos, Baja California Sur;1
+Mexico;NULL;"Mexico City ";1
+Mexico;NULL;Michoacan;1
+Mexico;NULL;Mitchoacan;1
+Mexico;NULL;Morelos;1
+Mexico;NULL;Nuevo Leon;1
+New Zealand;NULL;Auckland;1
+New Zealand;NULL;Northern region;1
+New Zealand;NULL;Te Waipounamu (South Island);1
+Mexico;NULL;San Luis Potosi;1
+Mexico;NULL;Veracruz;1
+Nigeria;NULL;Osun;1
+Pakistan;Sukkur;NULL;1
+Norway;NULL;Viken;1
+Nigeria;NULL;Ekiti;1
+Romania;NULL;Giurgiu;1
+Romania;NULL;Ilfov;1
+Romania;NULL;Timis County;1
+Republic of Congo;NULL;Ouesso;1
+Romania;NULL;Arges;1
+Romania;Bucharest;Bucharest;1
+Saudi Arabia;Riyadh;NULL;1
+South Africa;NULL;Gauteng Province;1
+South Africa;NULL;Western Cape;1
+South Africa;Cape Town;Cape Town, Western Cape Province;1
+South Korea;Incheon;NULL;1
+Peru;NULL;Hu├ínuco;1
+Peru;NULL;Huanuco;1
+Peru;NULL;Ica;1
+Peru;Tumbes;NULL;1
+Poland;Warsaw;Provincial Infectious Hospital at Wolska Street, Warsaw;1
+Spain;"Formentera ";Formentera, Balearic Islands;1
+Spain;Aragon;NULL;1
+Spain;Aragon;Aragon;1
+Spain;Barcelona;Barcelona, Catalonia;1
+Spain;NULL;Seville, Andalusia;1
+Spain;NULL;"Tenerife, Canary Islands ";1
+Spain;NULL;Gran Canaria, Canary Islands;1
+Germany;NULL;Baden-Wurttemburg, T├╝bingen;1
+Germany;NULL;Baden-Wurttemburg, Rems-Murr-Kries;1
+Germany;NULL;Baden-Wurttemburg, Reutlingen;1
+Germany;NULL;Baden-Wurttemburg, Rhein-Neckar-Kreis;1
+Germany;NULL;Baden-Wurttemburg, Schw├ñbisch Hall;1
+Germany;NULL;Baden-Wurttemburg, Schwarzwald-Baar-Kreis;1
+Germany;NULL;Bayern, Dillingen;1
+Germany;NULL;Bayern, Ebersberg;1
+Germany;NULL;Bayern, F├╝rstenfeldbruck;1
+Germany;NULL;Bayern, F├╝rth, Stadtkreis;1
+Germany;NULL;Bayern, Freising;1
+Germany;NULL;Bayern, G├╝nzburg;1
+Germany;NULL;Bayern, Augsburg;1
+Germany;NULL;Bayern, Augsburg, Landkreis;1
+Germany;NULL;Bayern, Cham;1
+Germany;NULL;"Baden-Wurttemburg, Bodenseekreis ";1
+Germany;NULL;Baden-Wurttemburg, Emmendingen;1
+Germany;NULL;Baden-Wurttemburg, Esslingen;1
+Germany;NULL;Baden-Wurttemburg, Freiburg, Stadt;1
+Germany;NULL;Baden-Wurttemburg, Heidenheim;1
+Germany;NULL;Baden-Wurttemburg, Heilbronn;1
+Germany;NULL;Baden-Wurttemburg, Heilbronn, Landkreis;1
+Germany;NULL;Baden-Wurttemburg, Karlsruhe, Landkreis;1
+Germany;NULL;Baden-Wurttemburg, Karlsruhe, Stadt;1
+Germany;NULL;Baden-Wurttemburg, B├╢blinen;1
+Germany;NULL;Baden-Wurttemburg, Main-Tauber-Kreis;1
+Germany;NULL;"Baden-Wurttemburg, Ortenaukreis ";1
+Germany;NULL;Baden-Wurttemburg, Pforzheim;1
+France;NULL;Corse;1
+France;NULL;├Äle-de-France;1
+France;NULL;Martinique;1
+Germany;NULL;Baden-Wurttemberg, Reutlingen;1
+Germany;NULL;Baden-Wurttemberg, Stadt Freiburg;1
+France;NULL;Pays-de-la-Loire;1
+France;NULL;Vannes, Brittany;1
+France;Lyon;Lyon, Auvergne-Rhone-Alpes;1
+France;Marseille;Marseille, PACA;1
+France;Toulouse;Toulouse, Occitanie;1
+Germany;NULL;Baden-W├╝rttemberg, Ravensburg;1
+Germany;NULL;Baden-W├╝rttemberg, Stadt Freiburg;1
+Germany;NULL;Baden-W├╝rttemberg, Stadtkreis Ulm;1
+Germany;NULL;Baden-Wurttemberg, Karlsruhe;1
+Germany;NULL;Baden-Wurttemberg, L├╢rrach;1
+Germany;NULL;Cologne, North Rhine-Westphalia;1
+Germany;NULL;Hessen, Bergstrasse;1
+Germany;NULL;Hessen, Darmstadt;1
+Germany;NULL;Hessen, Darmstadt, Stadt;1
+Germany;NULL;Brandenburg, Teltow-Flaming;1
+Germany;NULL;Brandenburg, Potsdam-Mittelmark;1
+Germany;NULL;Brandenburg, Spree-Nei├ƒe;1
+Germany;NULL;Brandenburg, M├ñrkisch-Oderland;1
+Germany;NULL;Brandenburg, Dahme-Spreewald;1
+Germany;NULL;Brandenberg, Oder-Spree;1
+Germany;NULL;Bayern, W├╝rzburg, Landkreis;1
+Germany;NULL;Bayern, Weilheim-Schongau;1
+Germany;NULL;Bayern, Wunsiedel;1
+Germany;NULL;Bayern, Neuburg-Schrobenhausen;1
+Germany;NULL;Bayern, Neu-Ulm;1
+Germany;NULL;Bayern, Regensburg;1
+Germany;NULL;Bayern, Rottal-Inn;1
+Germany;NULL;Bayern, Straubing;1
+Germany;NULL;Bayern, M├╝nchen, Landkreis;1
+Germany;NULL;Bayern, Miltenberg;1
+Germany;NULL;Neidersachen,  Hannover;1
+Germany;NULL;Neidersachsen, G├╢ttingen;1
+Germany;NULL;Niedersachen, Oldenburg;1
+Germany;NULL;Lower Saxony;1
+Germany;NULL;Mecklenburg-Vorpommern;1
+Germany;NULL;Mecklenburg-Vorpommern, Ludwigslust-Parchim;1
+Germany;NULL;Mecklenburg-Vorpommern, Mecklenburgische Seenplatte;1
+Germany;NULL;Hessen, Stadt Offenbach;1
+Germany;NULL;Hessen, Offenbach, Stadt;1
+Germany;NULL;Hessen, Rheingau-Taunus-Kreis;1
+Germany;NULL;Hessen, Offenbach;1
+Germany;NULL;Hessen, Fulda;1
+Germany;NULL;Niedersachsen, Diepholz;1
+Germany;NULL;Niedersachsen, G├╢ttingen;1
+Germany;NULL;Niedersachsen, Hameln-Pyrmont;1
+Germany;NULL;Niedersachsen, Hildesheim;1
+Germany;NULL;Niedersachsen, Osnabr├╝ck, Landkreis;1
+Germany;NULL;Niedersachsen, Osnabr├╝ck, Stadt;1
+Germany;NULL;North Rhine-Westphalia, Borken;1
+Germany;NULL;North Rhine- Westphalia, Leverkusen;1
+Brazil;NULL;Paraiba;1
+Brazil;NULL;Piaui;1
+Brazil;NULL;Grande Vitoria, Espirito Santo;1
+Brazil;Fortaleza;Ceara;1
+Brazil;Goiania;Goias;1
+Brazil;Indaiatuba;Sao Paulo;1
+Brazil;Marica;Rio de Janeiro;1
+Brazil;Natal;Rio Grande do Norte;1
+Brazil;Porto Alegre;Porto Alegre, Rio Grande do Sul;1
+Brazil;Cascavel;Parana;1
+Brazil;NULL;Tocantins;1
+Brazil;Vinhedo;Vinhedo, Sao Paulo;1
+Brazil;Russas;Ceara;1
+Brazil;Sao Paulo;Sao Paulo;1
+Cameroon;NULL;Odza;1
+Australia;Melbourne;The Alfred Hospital, Victoria;1
+Australia;Melbourne;Victoria;1
+Austria;Vienna;Vienna;1
+Austria;Vorarlberg;NULL;1
+Belgium;NULL;Antwerp, Flanders;1
+Australia;NULL;South Australia;1
+Australia;NULL;Northern Territory;1
+Argentina;Cordoba;NULL;1
+Argentina;Godoy Cruz;Mendoza;1
+Belgium;Li├¿ge;Wallonia;1
+Bolivia;NULL;Potosi;1
+Bolivia;NULL;region of Santa Cruz, Elvira Wunderlich Health Center;1
+Austria;NULL;Lower Austria;1
+Bolivia;"Santa Cruz ";NULL;1
+Bosnia And Herzegovina;NULL;Sarajevo;1
+Canada;Grey Bruce;Ontario;1
+Canada;NULL;New Brunswick;1
+Canada;NULL;Newfoundland;1
+Canada;NULL;Ontario, Eastern Ontario;1
+Canada;Vancouver;British Columbia;1
+Canada;Simcoe-Muskoka;Ontario;1
+Canada;Sudbury;Ontario;1
+Canada;Lambton;Ontario;1
+Canada;North Bay-Parry Sound;Ontario;1
+Canada;Mississauga;Ontario;1
+Dominican Republic;Santo Domingo;NULL;1
+Ecuador;NULL;Azuay;1
+England;Newcastle;Newcastle;1
+England;South East;South East;1
+Finland;Helsinki;Hospital District of Helsinki and Uusimaa;1
+Finland;Hus;NULL;1
+Ecuador;NULL;Guayas;1
+Ecuador;NULL;Los Rios;1
+Ecuador;NULL;Quito;1
+Ecuador;NULL;Santa Elena;1
+Ecuador;Machala;NULL;1
+Czech Republic;Prague;Prague, Czech Republic;1
+Czech Republic;NULL;Usti Region;1
+Chile;NULL;Araucan├¡a Region;1
+Chile;NULL;Talagante Hospital, Metropolitana;1
+Cayman Islands;NULL;Cayman Islands;1
+Central African Republic;NULL;Alindao District;1
+Central African Republic;NULL;Bimbo District;1
+Colombia;NULL;Bogota;1
+Colombia;NULL;Cartgo, Valle del Cauca;1
+Colombia;NULL;Pereira;1
+Colombia;Medellin;NULL;1
+Chile;San Felipe;"San Camilo Hospital ";1
+United States;NULL;Chemung County, New York;1
+United States;NULL;Aroostook County, Maine;1
+United States;NULL;Bellevue Hospital, New York City, New York;1
+United States;NULL;Berkeley County, West Virginia;1
+United States;NULL;Broome County, New York;1
+Spain;Tenerife;Canary Islands;1
+United States;NULL;Alameda County, California;1
+United States;NULL;Ada County, Idaho;1
+United States;NULL;AH, AT;1
+Sweden;V├ñstra G├╢taland;V├ñstra G├╢taland;1
+Switzerland;NULL;Geneva Canton;1
+Switzerland;NULL;Zurich;1
+Switzerland;Bern;Bern;1
+Taiwan;NULL;Taipei;1
+Thailand;NULL;Bangkok;1
+Thailand;Bangkok;NULL;1
+Spain;Valencia;Castellon, Valencian Community;1
+Spain;Valencia;Valencian Community;1
+Sudan;NULL;West Darfur;1
+Sweden;NULL;Region Sk├Ñne;1
+Sweden;NULL;Stockholm Region;1
+United States;NULL;Franklin County, Vermont;1
+United States;NULL;Gallatin County, Montana;1
+United States;NULL;Greene County, Missouri;1
+United States;NULL;Greene County, New York;1
+United States;NULL;Harris County, Texas;1
+United States;NULL;Du Page County, Illinois;1
+United States;NULL;Denver area, Colorado;1
+United States;NULL;Johnson County, Kansas;1
+United States;NULL;Kanawha-Charleston, West Virginia;1
+United States;NULL;Lake County, Illinois;1
+United States;NULL;Lane County, Oregon;1
+United States;NULL;Langlade County, Wisconsin;1
+United States;NULL;Hawai'i Island, Hawaii;1
+United States;NULL;Houston, Texas;1
+United States;NULL;Jefferson County, Alabama;1
+United States;NULL;Jefferson County, Kentucky;1
+United States;NULL;New Haven County, Connecticut;1
+United States;NULL;Niagara County, New York;1
+United States;NULL;O╩╗ahu, Hawaii;1
+United States;NULL;Oahu, Hawaii;1
+United States;NULL;Onondaga County, New York;1
+United States;NULL;Lowcountry, South Carolina;1
+United States;NULL;Maricopa County, Arizona;1
+United States;NULL;Midlands, South Carolina;1
+United States;NULL;Montana;1
+United States;NULL;Mobile County, Alabama;1
+United States;NULL;Polk County, Iowa;1
+United States;NULL;Providence County, Rhode Island;1
+United States;NULL;Putnam County, New York;1
+United States;NULL;Penobscot County, Maine;1
+United States;NULL;St. Lawrence County, New York;1
+United States;NULL;St. Louis County, Missouri;1
+United States;NULL;San Francisco, California;1
+United States;NULL;Schenectady County, New York;1
+United States;NULL;Snohomish County, Washington;1
+United States;NULL;Sussex County, Delaware;1
+United States;NULL;Rockingham County, New Hampshire;1
+United States;NULL;Tioga County, New York;1
+United States;NULL;York County, Maine;1
+United States;NULL;West Virginia;1
+United States;NULL;Utah County, Utah;1
+United States;NULL;Vermont;1
+United States;Austin;Travis County, Texas;1
+United States;Boston;Massachusetts General Hospital, Boston, Massachusetts;1
+United States;Milwaukee;Milwaukee County, Wisconsin;1
+United States;Cleveland;Ohio;1
+United States;Dallas;Texas;1
+United States;Denver;Colorado, Denver area;1
+United States;Forest Park;Illinois;1
+United States;Philadelphia;Pennsylvania;1
+United States;Philadelphia;Philadelphia, Pennsylvania;1
+United States;Sacramento;Sacramento, California;1
+United States;St. Louis;Missouri;1
+United States;Washington DC;District of Columbia;1
+Uruguay;NULL;Montevideo;1
