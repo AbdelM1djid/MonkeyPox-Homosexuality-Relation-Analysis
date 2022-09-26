@@ -1,0 +1,32 @@
+Tools used  : 
+Microsoft sql server
+Excel 
+Tableau 
+=================================================================================================================================
+Basic Data Analysis
+1-Most effected Gender 
+2-average time to confirm the disease , Hospitalize and isolate 
+3-Top MonkeyPox Symptoms
+4- top 3 places of MonkeyPox 
+5- most used confirmations methods 
+   1) is MonkeyPox deadly ? 
+1- Total Number of DEATH
+2- Percentage of Recoverd Vs Percentage of Deaths 
+3- Top Symptoms that causes death 
+4- Total Number of Death each country 
+   2) How is the Disease increaing each month ? 
+1- number of increase of confirmed cases each month 
+2-
+   3)  Does data prove that monkeypox is caused by homosexuality 
+1-Total Number of Male confirmed cases each country 
+2-Total Number of Males Homosexual in each country  
+3- are they the same ? 
+
+#1- Analysis Documentation : 
+        - answered the Questions in Sql through Queries  , Exported Tables
+        - used the Exported Tables in Excel to make an Excel Dashboard for Basic MonkeyPox Analysis
+        - Download and collect the required Homosexuality Data to answer the last question
+        - aggregated " The countries position towards homosexuality " Data with Number of MonkeyPox Cases in each country 
+        - used VLOOKUP/filtering to get the number of monkeyPox in countries that support and the countries that don't 
+support homosexuality 
+        - inserted the excel file into Tableau where i made a dashboard and a Story to communicate my findings

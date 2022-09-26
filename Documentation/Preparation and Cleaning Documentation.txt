@@ -1,0 +1,32 @@
+Tools used  : 
+Microsoft Sql Server
+=========================================================================
+
+1# - Prepare The Data : 
+        -  Donwloaded the data from Kaggle Platform 
+        -  Renamed the CSV File into 'MonkeyPox Csv File'
+        -  Imported Csv into Excel Worksheet and Renamed Worksheet into 'Monkey Pox Worksheet'
+        -  Made a Copy out of the worksheet to save the original File
+        -  Created a Metadata File Containing Description of Data
+        -  Imported The Worksheet Copy into Sql to start The Processing and Cleaning Step
+        -  Explored Data Columns and The unique Values
+        -  Created a Data information File and enriched it with Columns Meanings 
+
+2# - Processing and Cleaning : 
+There is so much repetitive operations so i created multiple chunk of codes to check 
+the Unique values , change column type , drop rows , drop columns and fill values 
+        - Checking Missing Values in each column to decide either to drop/Fill the column/row
+        - columns dropped  : Source_V , Source_VI , Source_VII because they contain no value 
+        - rows dropped : WHERE ID IS NULL
+        - back up data every now and then to avoid repeating the process all over 
+        -  transformed 'omit_error' values in the Status column into confirmed if they have a confirmation date otherwise drop them 
+        - Checking Number of unique values in each columns to decide if they are useful or not 
+        - Drop columns that we don't use for anlysis which are : 
+(Country_ISO3,Contact_comment,Contact_ID,Travel_history_entry,
+Travel_history_start,Source_II,Source_III,Source_IV,Source_V,
+Source_VI,Source_VII,Date_entry,Date_last_modified)
+
+
+        - changing datetime columns into date only to remove hours from them
+        - chaging Date_death into int then into date because the column was in a base date ex : '44270'
+        - Checking for Duplicates values in the ID Column and finally creating Metrics to move into the analyzing step  

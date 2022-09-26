@@ -1,0 +1,40 @@
+===================================================================
+1) ID : Unique ID of a single CASE
+2) Status : 
+discarded meaning  : was suspected but then reported to be negative
+Suspected Meaning : suspected case
+omit_error : (needs to be dropped)
+Confirmed : confirmed case
+3) Location : The place of the infected or the suspected place inside the country 
+4) Country : Country of the infection 
+5) Age : Age Range of  the case (contains bad variable) 
+6) Gender : Male or Female (contains a bad variable )
+7) Date onset : Date of Suspension of the case (needs to be converted to a Date only column) 
+8) Date of confirmation : confirmed case date (needs to be converted to a date only column) 
+9) Symptomes : Symptomes of the case (seperated with a comma in case of multiple symptomes )
+10) Hospitalised (Y/N/NA) : Hospitalised or not or not Known (only contains Y & N cases ) 
+11) Date_hospitalisations : Date of Hospitalisation in Hospitalised cases
+12) Isolated (Y/N/NA) : isolated the infected Peroson (only contains Y values)
+13) Date of isolation : isolation date (needs to be converted to  a date only column) 
+14) Outcome : The end results of the case (2 values either death or recovering)
+15) Contact_comment : if the case made contact with somebody before or after the disease (contains whole phrases)
+16) Contact_ID : the id of the one that he made contact with (decimal needs to be converted into int) 
+17) Contact_location : where he made a contact  if the infected person remembered
+18) Travel_history(Y/N/NA) : if he made travels in the past or not (contains Y and N values only)
+19) Travel_history_(entry : datetime needs to be converted into a date column
+,start : start of the trip (very random column probably will drop this one)
+,location : sited the travel location and sometime the country 
+,country : traveled to country 
+)  
+20) Genomic_Metadata : the informations of Genomics
+21) Confirmation_method : method used to  confirme the case
+22) source_(1,2,3...) : the source (drop columns Source V and above because they don't contain any records)
+23) Date_entry : the date entry of this information (needs to be converted to date only column)
+24) Date_Death : date of death if the infected person died
+25) Date_last_modified : the date in which this data was modified
+
+Before Analysis : 
+. Total Number of Rows : 41554
+. Total Number of Columns : 25
+ ===================================================================
+analysis Files : 
